@@ -1,0 +1,6 @@
+print('Care este numele si prenumele tau?')
+NP=input()
+print('Ce iti doresti sa devii in viitor?')
+prof=input()
+print('Te numesti',NP, sep=' ')
+print('In viitor doresti sa devii',prof, sep=' ')
